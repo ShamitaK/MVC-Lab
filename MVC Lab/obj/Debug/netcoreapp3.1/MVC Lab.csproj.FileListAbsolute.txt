@@ -1,0 +1,110 @@
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\MVC Lab.exe
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\MVC Lab.deps.json
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\MVC Lab.runtimeconfig.json
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\MVC Lab.runtimeconfig.dev.json
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\MVC Lab.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\MVC Lab.pdb
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\MVC Lab.Views.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\MVC Lab.Views.pdb
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.csprojAssemblyReference.cache
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\staticwebassets\MVC Lab.StaticWebAssets.Manifest.cache
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\staticwebassets\MVC Lab.StaticWebAssets.xml
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.RazorAssemblyInfo.cache
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.RazorAssemblyInfo.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.AssemblyInfo.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.TagHelpers.input.cache
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.TagHelpers.output.cache
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.RazorCoreGenerate.cache
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.RazorTargetAssemblyInfo.cache
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.RazorTargetAssemblyInfo.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.Views.pdb
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.pdb
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.csproj.CopyComplete
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\MVC Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\Razor\Views\Trip\MileageForm.cshtml.g.cs
+C:\Users\shami\source\repos\MVC Lab\MVC Lab\obj\Debug\netcoreapp3.1\Razor\Views\Trip\MileageResult.cshtml.g.cs

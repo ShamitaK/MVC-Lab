@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "MileageForm";
+}
+
+<h1>MileageForm</h1>
+<form action="../Trip/MileageResult" method="post">
+
+    <!--placeholder will put mpg or gallon in grey, inside the text box-->
+    <label for="mpg">Mileage (MPG)</label>
+    <input id="mpg" type="number" name="mpg" step="0.1" placeholder="mpg" /><br />
+
+    <!--or you could do this instead of adding in a lable-->
+    Gallons in Tank<input style="color: darkblue" id="gallons" for="mpg" type="number" name="gallons" placeholder="gallons" min="0" max="30" /><br /> <!--min was set so that user will not enter negative values-->
+    
+    <!-- the "span" keeps the label in line, "step" allows you to input decimal numbers-->
+    <span style="color: darkgreen;">Trip Distance</span> 
+    <input type="number" name="trip" step="0.1" placeholder="Trip Distance" min="0"/>
+
+    <input type="submit" value="Calculate Trip" /> <!--if you set a value, it will name it to whatever you set your value to-->
+
+</form>
+
